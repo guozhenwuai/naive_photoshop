@@ -1,0 +1,90 @@
+﻿  Moc'ing algebraicdialog.h...
+  Moc'ing binarymorphodialog.h...
+  Moc'ing clipbox.h...
+  Moc'ing clipdialog.h...
+  Moc'ing curvecanvas.h...
+  Moc'ing curvedialog.h...
+  Moc'ing dualthresholddialog.h...
+  Moc'ing edgedetectiondialog.h...
+  Moc'ing filterdialog.h...
+  Moc'ing graymorphodialog.h...
+  Moc'ing histogramdialog.h...
+  Moc'ing histogramview.h...
+  Moc'ing houghtransformdialog.h...
+  Moc'ing huesaturalightdialog.h...
+  Moc'ing leveldialog.h...
+  Moc'ing photoshopgui.h...
+  Moc'ing scaledialog.h...
+  Moc'ing structureelementcanvas.h...
+  algebraicdialog.cpp
+algebraicdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  binarymorphodialog.cpp
+  clipbox.cpp
+clipbox.cpp(179): warning C4100: “event”: 未引用的形参
+  clipdialog.cpp
+  curvecanvas.cpp
+curvecanvas.cpp(31): warning C4100: “e”: 未引用的形参
+curvecanvas.cpp(76): warning C4100: “e”: 未引用的形参
+  curvedialog.cpp
+  moc_algebraicdialog.cpp
+  moc_binarymorphodialog.cpp
+  moc_clipbox.cpp
+  moc_clipdialog.cpp
+  moc_curvecanvas.cpp
+  moc_curvedialog.cpp
+  moc_dualthresholddialog.cpp
+  moc_edgedetectiondialog.cpp
+  moc_filterdialog.cpp
+  moc_graymorphodialog.cpp
+  moc_histogramdialog.cpp
+  moc_histogramview.cpp
+  moc_houghtransformdialog.cpp
+  moc_huesaturalightdialog.cpp
+  正在生成代码...
+  正在编译...
+  moc_leveldialog.cpp
+  moc_photoshopgui.cpp
+  moc_scaledialog.cpp
+  moc_structureelementcanvas.cpp
+  dualthresholddialog.cpp
+  edgedetectiondialog.cpp
+edgedetectiondialog.cpp(105): warning C4100: “parent”: 未引用的形参
+edgedetectiondialog.cpp(131): warning C4100: “parent”: 未引用的形参
+  filterdialog.cpp
+  graymorphodialog.cpp
+  histogramdialog.cpp
+  histogramview.cpp
+  houghtransformdialog.cpp
+  huesaturalightdialog.cpp
+  imageoperations.cpp
+imageoperations.cpp(460): error C2131: 表达式的计算结果不是常数
+  imageoperations.cpp(460): note: 因读取超过生命周期的变量而失败
+  imageoperations.cpp(460): note: 请参见“size”的用法
+imageoperations.cpp(475): error C3863: 不可指定数组类型“unsigned int [size]”
+imageoperations.cpp(491): error C2131: 表达式的计算结果不是常数
+  imageoperations.cpp(491): note: 因读取超过生命周期的变量而失败
+  imageoperations.cpp(491): note: 请参见“size”的用法
+imageoperations.cpp(497): error C3863: 不可指定数组类型“double [size]”
+imageoperations.cpp(660): warning C4018: “>=”: 有符号/无符号不匹配
+imageoperations.cpp(662): warning C4018: “>=”: 有符号/无符号不匹配
+imageoperations.cpp(664): warning C4018: “>=”: 有符号/无符号不匹配
+imageoperations.cpp(666): warning C4018: “>=”: 有符号/无符号不匹配
+  leveldialog.cpp
+  log.cpp
+log.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+log.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+log.cpp(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  photoshopgui.cpp
+photoshopgui.cpp(767): error C2131: 表达式的计算结果不是常数
+  photoshopgui.cpp(767): note: 因读取超过生命周期的变量而失败
+  photoshopgui.cpp(767): note: 请参见“size”的用法
+photoshopgui.cpp(769): error C3863: 不可指定数组类型“int [size*size]”
+photoshopgui.cpp(832): error C2131: 表达式的计算结果不是常数
+  photoshopgui.cpp(832): note: 因读取超过生命周期的变量而失败
+  photoshopgui.cpp(832): note: 请参见“size”的用法
+photoshopgui.cpp(834): error C3863: 不可指定数组类型“int [size*size]”
+  scaledialog.cpp
+  structureelementcanvas.cpp
+structureelementcanvas.cpp(45): warning C4100: “e”: 未引用的形参
+  正在生成代码...
